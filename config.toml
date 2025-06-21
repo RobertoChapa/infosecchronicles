@@ -1,0 +1,4 @@
+﻿baseURL = "https://infosecchronicles.com/"
+title   = "The Infosec Chronicles"
+theme   = "PaperMod"
+defaultContentLanguage = "en"
