@@ -1,4 +1,4 @@
-﻿baseURL = "https://infosecchronicles.com/"
-title   = "The Infosec Chronicles"
-theme   = "PaperMod"
-defaultContentLanguage = "en"
+baseURL = "https://infosecchronicles.com/"
+languageCode = "en-us"
+title = "The Infosec Chronicles"
+theme = "PaperMod"
